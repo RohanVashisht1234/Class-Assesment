@@ -8,4 +8,4 @@ jobs:
     name: deploy to staging
     runs-on: ubuntu-22.04
     steps:
-    - run: echo "Hello from Rohan Vashisht"
+    - run: echo "Hello from Rohan Vashisht!"
